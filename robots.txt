@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://universos-paralelos.netlify.app/sitemap.xml
+Sitemap: https://avisnet-ship-it.github.io/universos-paralelos/sitemap.xml
